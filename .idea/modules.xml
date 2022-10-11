@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JWT.iml" filepath="$PROJECT_DIR$/.idea/JWT.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-security-jwt/spring-boot-security-jwt.iml" filepath="$PROJECT_DIR$/spring-boot-security-jwt/spring-boot-security-jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Backend.iml" filepath="$PROJECT_DIR$/.idea/Backend.iml" />
     </modules>
   </component>
 </project>
